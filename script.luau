@@ -1,4 +1,4 @@
---this script is created by masternamedjoe on DC, and on roblox Jozinn93, i took like hour or two on this. For HiddenDevs luau test.
+--this script is created by masternamedjoe on DC, and on roblox Jozinn93, i took like hour or two on this. For luau test.
 -- some of my knowledge.
 local Game_players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
